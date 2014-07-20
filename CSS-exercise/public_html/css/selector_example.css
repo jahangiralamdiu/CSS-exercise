@@ -20,3 +20,11 @@ div[role]
 {
     background-color: yellow;
 }
+
+/* Select all the elements that have 'role' and value = 'main' attribute and make the background color skyblue
+*/
+
+div[role='main']
+{
+   color: skyblue;
+}
