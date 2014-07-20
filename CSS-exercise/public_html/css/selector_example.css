@@ -18,5 +18,5 @@ try to avoid universal selector. Performance issues
 
 div[role]
 {
-    color: yellow;
+    background-color: yellow;
 }
