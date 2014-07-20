@@ -4,7 +4,19 @@
     Author     : bcc
 */
 
+/*
+try to avoid universal selector. Performance issues
 *
 {
-    background-color: yellow;
+    background-color: green;
+}
+
+*/
+
+/* Select all the elements that have 'role' attribute and make the font color yellow
+*/
+
+div[role]
+{
+    color: yellow;
 }
