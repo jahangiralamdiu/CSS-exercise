@@ -28,3 +28,10 @@ div[role='main']
 {
    color: skyblue;
 }
+
+/* select all the li selements that are second child of their parents */
+
+li:nth-child(2)
+{
+    background-color: red;
+}
