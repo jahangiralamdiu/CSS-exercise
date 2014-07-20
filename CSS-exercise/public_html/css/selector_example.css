@@ -54,3 +54,15 @@ b~i{
     
     color: red;
 }
+
+#zen-summary
+{
+    color: red;
+}
+
+/* class example */
+
+.danger {
+    color: red;
+    font-size: 30px;
+}
